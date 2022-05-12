@@ -1,0 +1,10 @@
+export const NOTE_ON = 0x90;
+export const NOTE_OFF = 0x80;
+export const CONTROL_CHANGE = 0xb0;
+export const PROGRAM_CHANGE = 0xc0;
+export const SYSEX_START = 0xf0;
+export const SYSEX_END = 0xf7;
+export const CLOCK = 0xf8;
+export const STOP = 0xfc;
+export const START = 0xfa;
+export const PITCH_WHEEL = 0xe0;
